@@ -9,9 +9,35 @@
     tools:showIn="@layout/activity_breed_info">
 
     <TextView
-        android:layout_width="wrap_content"
+        android:id="@+id/breed_name_head"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/text_margin"
-        android:text="@string/large_text" />
+        android:text="@string/large_text"
+        style="@style/headerStyle"/>
+    <TextView
+        android:id="@+id/breed_life_head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/breed_weight_head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/breed_history_head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/breed_character_head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/breed_health_head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/breed_tips_head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 
 </androidx.core.widget.NestedScrollView>
