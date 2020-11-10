@@ -8,7 +8,7 @@ average size, average life expectancy, common characteristics, breed history, po
 Gabriella Pujada
 
 ## License
-You 'N Breed by Gabriella Pujada is licensed under CC BY-NC-SA 4.0CC : [License Info] (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+You 'N Breed by Gabriella Pujada is licensed under CC BY-NC-SA 4.0CC: [License Info](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Current Features
 *
