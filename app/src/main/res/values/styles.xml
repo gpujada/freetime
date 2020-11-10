@@ -8,15 +8,20 @@
         <item name="android:colorBackground">@color/lightBackground</item>
     </style>
 
+    <style name="breed_list">
+        <item name="android:textSize">@dimen/list_text_size</item>
+        <item name="android:padding">@dimen/list_padding_size</item>
+    </style>
+
     <style name="headerStyle">
         <item name="android:textColor">@color/colorPrimaryDark</item>
         <item name="android:textAllCaps">true</item>
-        <item name="android:textSize">36sp</item>
+        <item name="android:textSize">@dimen/header_text_size</item>
     </style>
 
     <style name="mainText">
         <item name="android:textColor">@color/colorPrimaryDark</item>
-        <item name="android:textSize">20sp</item>
+        <item name="android:textSize">@dimen/main_text_size</item>
     </style>
 
     <style name="imagesSettings">

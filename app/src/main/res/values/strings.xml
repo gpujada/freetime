@@ -2,8 +2,10 @@
     <string name="app_name">You \'N Breed</string>
     <string name="welcome">Welcome!</string>
     <string name="breed_spinner_prompt">Please select the primary dog breed</string>
+    <string name="get_button">Get Info</string>
     <string name="dog_pic_desc">Three dogs lined up pretty</string>
 
+    <string name="title_activity_breed_info">Breed Information</string>
     <string name="life_exp">Average Life Expectancy:</string>
     <string name="weight">Average Weight:</string>
     <string name="history">Brief History of the Breed:</string>
