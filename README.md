@@ -15,5 +15,3 @@ You 'N Breed by Gabriella Pujada is licensed under CC BY-NC-SA 4.0CC : [License 
 #Possible Options
 * Utilize a Web API for grabbing data from Internet and uploading to database : possible source : [American Kennel Club](https://akc.org)
 * Add camera function to take picture of family dog and allow AI to analyze physical characteristics for possible breed match - yes, I know that is a big dream and a lot to ask for/implement...
-
-License: You 'N Breed by Gabriella Pujada is licensed under CC BY-NC-SA 4.0CC :iconby: :iconnc: :iconsa: :icon:
